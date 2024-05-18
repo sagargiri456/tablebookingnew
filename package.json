@@ -16,8 +16,8 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
-    "start": "node start",
-    "build": "react-scripts build",
+    "start": "react-scripts start",
+    "build": "node run build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
