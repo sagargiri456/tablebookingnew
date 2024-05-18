@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "nodemon",
-      "build": "npm install",
+      "build": "yarn install",
   },
   "author": "Melvin J",
   "license": "ISC",
