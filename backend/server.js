@@ -4,8 +4,9 @@ const mongoose = require("mongoose");
 const routesUrls = require("./routes/routes");
 const cors = require("cors");
 
-mongoose.connect("mongodb://localhost:27017/FoodOrdering", () =>
-  console.log("Database connected")
+mongoose.connect(
+  "mongodb+srv://sagargiri456:pass%40123@cluster0.la3f9jt.mongodb.net/FoodOrder?retryWrites=true&w=majority&appName=Cluster0",
+  () => console.log("Database connected")
 );
 
 app.use(express.json());
