@@ -23,7 +23,7 @@ const Book = () => {
       bookingtime,
     };
     axios
-      .post("http://localhost:4000/app/book", booked)
+      .post("https://tablebookingnew.onrender.com/app/book", booked)
       .then((response) => console.log(response.data));
     alert("Your booking has been confirmed");
     window.location = "/";
