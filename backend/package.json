@@ -4,8 +4,8 @@
   "description": "booking ",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "build":"npm run build"
+    "start": "nodemon",
+      "build": "npm install",
   },
   "author": "Melvin J",
   "license": "ISC",
