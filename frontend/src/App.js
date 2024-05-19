@@ -9,7 +9,7 @@ import {
   Header,
   SpecialMenu,
   Book,
-} from "./container";
+} from "./container/index";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import { Navbar } from "./components";
 import "./App.css";
