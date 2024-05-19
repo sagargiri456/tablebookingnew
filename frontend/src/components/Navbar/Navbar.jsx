@@ -30,11 +30,12 @@ const Navbar = () => (
         <Link to="/contact">Contact</Link>
       </li>
     </ul>
-    <div className="app__navbar-login">
+    <div className="p__opensans">
       {/* <a href="#login" className="p__opensans">Log In / Registration</a> */}
-      <a href="/book" className="p__opensans">
+      {/* <a href="/book" className="p__opensans">
         Book a Table
-      </a>
+      </a> */}
+      <Link to="/book">Book A Table</Link>
     </div>
   </nav>
 );
