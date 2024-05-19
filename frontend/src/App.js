@@ -24,6 +24,7 @@ const App = () => (
       <Route exact path="/gallery" element={<Gallery />} />
       <Route exact path="/contact" element={<FindUs />} />
       <Route exact path="/book" element={<Book />} />
+      <Route exact path="/sagar" element={"Hello"} />
     </Routes>
     <Order />
     <Footer />
