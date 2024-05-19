@@ -8,8 +8,9 @@ import {
   Gallery,
   Header,
   SpecialMenu,
-  Book,
+  
 } from "./container/index";
+import Book from "./container/Book/Laurels.jsx";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import { Navbar } from "./components";
 import "./App.css";
