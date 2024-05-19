@@ -5,8 +5,7 @@ const routesUrls = require("./routes/routes");
 const cors = require("cors");
 
 mongoose.connect(
-  "mongodb+srv://sagargiri456:pass%40123@cluster0.la3f9jt.mongodb.net/FoodOrder?retryWrites=true&w=majority&appName=Cluster0",
-  () => console.log("Database connected")
+  "mongodb+srv://sagargiri456:pass%40123@cluster0.la3f9jt.mongodb.net/FoodOrder?retryWrites=true&w=majority&appName=Cluster0"
 );
 // app.get("/", (req, res) => {
 //   res.setHeader("Access-Control-Allow-Credentials", "true");
