@@ -36,16 +36,16 @@ const Footer = () => (
           style={{ marginTop: 15 }}
         />
         <div className="app__footer-links_icons">
-          <a href="https://github.com/melvinjjoseph">
+          <a href="https://github.com/sagargiri456">
             <FiGithub />
           </a>
-          <a href="https://www.linkedin.com/in/melvin-j-joseph/">
+          <a href="http://www.linkedin.com/in/sagar-giri-a48426248">
             <FiLinkedin />
           </a>
-          <a href="mailto:melvinjjoseph2002@gmail.com">
+          <a href="mailto:sagargiri456@gmail.com">
             <FiMail />
           </a>
-          <a href="https://www.instagram.com/melvin_2416/?hl=en">
+          <a href="https://www.instagram.com/sagar_saksham_giri/">
             <FiInstagram />
           </a>
         </div>
