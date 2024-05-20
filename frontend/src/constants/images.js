@@ -23,8 +23,7 @@ import w_logo from "../assets/wt_logo.jpeg";
 import swiggy from "../assets/swiggy.png";
 import zomato from "../assets/zomato.jpg";
 import menu1 from "../assets/menu1.jpg";
-import srikrishna from "../assets/srikrishna.png";
-import Mango_House from "../assets/Mango_House.png";
+import srikrishna from "../assets/Mango_House.png";
 
 export default {
   bg,
