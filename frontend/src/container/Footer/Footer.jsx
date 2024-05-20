@@ -21,8 +21,8 @@ const Footer = () => (
       <div className="app__footer-links_contact">
         <h1 className="app__footer-headtext">Contact Us</h1>
         <p className="p__opensans">Narela Jod,Ayodhya Bypass, India</p>
-        <p className="p__opensans">+91 86601 .....</p>
-        <p className="p__opensans">+91 65442 .....</p>
+        <p className="p__opensans">+91 888888xxx</p>
+        <p className="p__opensans">+91 777777xxx</p>
       </div>
 
       <div className="app__footer-links_logo">
